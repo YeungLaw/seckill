@@ -6,7 +6,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 /**
  * @author Yeung Law~
  *
- * MD5工具类，根据密码方案提供相应的加密方法
+ * MD5工具类，根据密码方案提供相应的加密方法~
  */
 public class MD5Util {
 
